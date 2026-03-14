@@ -1,0 +1,192 @@
+filename,type,status,start_time,estimated_time,print_duration,filament_used,slicer,energy_consumption,average_power,max_power,average_current,max_current
+xy_joint_left_lower_MGN12_ABS_3h12m.gcode,job,completed,"Dec 28, 2025 3:28 PM",11519,9120,13162.032,OrcaSlicer 2.3.0,0.589,225.913,524.8,2.201,4.695
+a_drive_frame_upper_ABS_6h42m.gcode,job,completed,"Dec 28, 2025 9:56 AM",24125,19469,28943.794,OrcaSlicer 2.3.0,1.159,211.903,538.8,2.064,4.624
+a_drive_frame_upper_ABS_18h35m.gcode,job,completed,"Dec 27, 2025 9:47 AM",66924,50762,82381.497,OrcaSlicer 2.3.0,2.872,203.951,546.6,1.975,4.752
+SpeedTestStructure_ABS_32m55s.gcode,job,cancelled,"Dec 20, 2025 2:51 PM",1975,956,7064.804,OrcaSlicer 2.3.0,0.171,321.376,569.3,2.944,4.997
+Body1_ABS_1d5h26m.gcode,job,completed,"Dec 19, 2025 8:07 AM",105949,98193,113614.405,OrcaSlicer 2.3.0,5.323,195.046,556.4,1.881,4.77
+SpeedTestStructure_ABS_32m55s.gcode,job,completed,"Dec 19, 2025 7:45 AM",1975,1069,20412.835,OrcaSlicer 2.3.0,0.088,258.708,548.7,2.498,4.666
+SpeedTestStructure_ABS_32m55s.gcode,job,completed,"Dec 19, 2025 6:57 AM",1975,1618,20411.835,OrcaSlicer 2.3.0,0.118,240.593,554.7,2.312,4.785
+Body1_ABS_13h21m.gcode,job,completed,"Dec 18, 2025 3:21 PM",48030,43902,77944.571,OrcaSlicer 2.3.0,2.476,203.871,560.8,1.946,4.823
+Rugged Box - Draw Latch_ABS_2h19m.gcode,job,completed,"Dec 14, 2025 11:02 AM",8320,6914,8941.001,OrcaSlicer 2.3.0,0.45,233.518,547.8,2.213,4.725
+Rugged Box - bottom 6x6x6 stacking_ABS_16h8m.gcode,job,completed,"Dec 13, 2025 7:46 PM",58060,53283,108057.816,OrcaSlicer 2.3.0,2.859,194.013,560,1.874,4.771
+UHP_200_din_bracket_x2_ABS_1h26m.gcode,job,completed,"May 7, 2025 6:04 PM",5165,4901,8690.645,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_10h8m.gcode,job,completed,"May 4, 2025 5:15 PM",36490,31603,64148.402,OrcaSlicer 2.2.0,--,--,--,--,--
+Pauls LED Clips 1515 Angled (1)_ABS_58m2s.gcode,job,completed,"May 4, 2025 2:39 PM",3482,3539,3914.893,OrcaSlicer 2.2.0,--,--,--,--,--
+unchained down_ABS_1h33m.gcode,job,completed,"May 4, 2025 1:03 PM",5579,5468,9572.227,OrcaSlicer 2.2.0,--,--,--,--,--
+unchained down_ABS_1h33m.gcode,job,error,"May 4, 2025 12:39 PM",5579,0,0,OrcaSlicer 2.2.0,--,--,--,--,--
+[a]_pg7_umbilical_z_chain_3_hole_x1_ABS_1h49m.gcode,job,completed,"May 4, 2025 10:41 AM",6544,6304,8359.102,OrcaSlicer 2.2.0,--,--,--,--,--
+NoDropNut_15mm_ABS_12m55s.gcode,job,error,"May 4, 2025 8:50 AM",775,0,0,OrcaSlicer 2.2.0,--,--,--,--,--
+NoDropNut_15mm_ABS_12m55s.gcode,job,completed,"May 4, 2025 8:14 AM",775,794,700.715,OrcaSlicer 2.2.0,--,--,--,--,--
+180_long_m2_nut_adapter_x6_ABS_38m31s.gcode,job,completed,"May 1, 2025 7:15 PM",2311,2359,3019.874,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_28m1s.gcode,job,completed,"May 1, 2025 6:07 PM",1681,1547,2624.572,OrcaSlicer 2.2.0,--,--,--,--,--
+[a]_z_belt_bed_fan_mount_a_x1_ABS_2h32m.gcode,job,completed,"Apr 30, 2025 5:51 PM",9105,8244,17301.744,OrcaSlicer 2.2.0,--,--,--,--,--
+z_belt_fan_cover_b__ABS_3h56m.gcode,job,completed,"Apr 29, 2025 8:21 PM",14143,12934,20379.938,OrcaSlicer 2.2.0,--,--,--,--,--
+z_belt_fan_cover_b__ABS_3h56m.gcode,job,error,"Apr 29, 2025 7:05 PM",14143,0,0,OrcaSlicer 2.2.0,--,--,--,--,--
+b_drive_lower_x1_ABS_43m52s.gcode,job,completed,"Apr 28, 2025 6:34 PM",2632,2412,3910.371,OrcaSlicer 2.2.0,--,--,--,--,--
+a_drive_upper_x1_ABS_1h30m.gcode,job,completed,"Apr 28, 2025 6:28 PM",5410,36,7807.995,OrcaSlicer 2.2.0,--,--,--,--,--
+b_drive_upper_x1_ABS_1h35m.gcode,job,completed,"Apr 28, 2025 4:27 PM",5680,5262,8295.634,OrcaSlicer 2.2.0,--,--,--,--,--
+fan_mount_x2_ABS_40m51s.gcode,job,completed,"Apr 28, 2025 3:38 PM",2451,2300,3947.03,OrcaSlicer 2.2.0,--,--,--,--,--
+fan_mount_x2_ABS_40m51s.gcode,job,completed,"Apr 28, 2025 2:57 PM",2451,2300,3947.03,OrcaSlicer 2.2.0,--,--,--,--,--
+keystone_skirt_ABS_2h35m.gcode,job,completed,"Apr 28, 2025 12:36 PM",9276,8078,18226.744,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_3h50m.gcode,job,completed,"Apr 28, 2025 9:06 AM",13811,12233,23815.691,OrcaSlicer 2.2.0,--,--,--,--,--
+Cowl_NoProbe_ABS_1h25m.gcode,job,completed,"Apr 24, 2025 9:42 AM",5080,4861,7113.764,OrcaSlicer 2.2.0,--,--,--,--,--
+Cowl_NoProbe_ABS_1h25m.gcode,job,completed,"Apr 24, 2025 8:02 AM",5080,4861,7113.764,OrcaSlicer 2.2.0,--,--,--,--,--
+Cowl_NoProbe_ABS_1h25m.gcode,job,completed,"Apr 23, 2025 7:34 PM",5080,4861,7113.764,OrcaSlicer 2.2.0,--,--,--,--,--
+SpeedTestStructure_ABS_1h6m.gcode,job,cancelled,"Apr 23, 2025 6:38 PM",3989,2596,14089.393,OrcaSlicer 2.2.0,--,--,--,--,--
+Orbiter2_Hotend_Mount_ABS_1h3m.gcode,job,completed,"Apr 23, 2025 5:21 PM",3774,3552,4408.214,OrcaSlicer 2.2.0,--,--,--,--,--
+Orbiter2_Hotend_Mount_ABS_1h3m.gcode,job,error,"Apr 23, 2025 5:18 PM",3774,0,0,OrcaSlicer 2.2.0,--,--,--,--,--
+micron 5015 center_ABS_2h36m.gcode,job,completed,"Apr 22, 2025 5:49 PM",9347,8516,19311.067,OrcaSlicer 2.2.0,--,--,--,--,--
+keystone_skirt_ABS_2h35m.gcode,job,completed,"Apr 21, 2025 6:19 PM",9283,8082,18206.886,OrcaSlicer 2.2.0,--,--,--,--,--
+[c]_diffuser_PETG_9m34s.gcode,job,completed,"Apr 21, 2025 5:27 PM",574,590,871.927,OrcaSlicer 2.2.0,--,--,--,--,--
+[c]_diffuser_PETG_9m34s.gcode,job,completed,"Apr 21, 2025 5:01 PM",574,590,871.927,OrcaSlicer 2.2.0,--,--,--,--,--
+flower-pot-super-mario-pipe-small-part1_ABS_2h56m.gcode,job,completed,"Apr 20, 2025 5:29 PM",10586,10016,26273.959,OrcaSlicer 2.2.0,--,--,--,--,--
+flower-pot-super-mario-pipe-small-part1_ABS_2h56m.gcode,job,completed,"Apr 20, 2025 2:12 PM",10586,10016,26273.959,OrcaSlicer 2.2.0,--,--,--,--,--
+flower-pot-super-mario-pipe-small-part1_ABS_2h56m.gcode,job,completed,"Apr 20, 2025 11:11 AM",10586,10016,26273.959,OrcaSlicer 2.2.0,--,--,--,--,--
+flower-pot-super-mario-pipe-small-part1_ABS_2h38m.gcode,job,completed,"Apr 20, 2025 8:00 AM",9500,9076,24982.009,OrcaSlicer 2.2.0,--,--,--,--,--
+[a]_fan_grill_x2_ABS_6h16m.gcode,job,completed,"Apr 19, 2025 4:32 PM",22545,20695,41105.065,OrcaSlicer 2.2.0,--,--,--,--,--
+[a]_fan_grill_x2_ABS_6h16m.gcode,job,klippy_shutdown,"Apr 19, 2025 4:20 PM",22545,0,0,OrcaSlicer 2.2.0,--,--,--,--,--
+[a]_1515_raspi_mount_ABS_5h50m.gcode,job,completed,"Apr 19, 2025 10:40 AM",21022,20163,27275.922,OrcaSlicer 2.2.0,--,--,--,--,--
+[a]_1515_raspi_mount_ABS_5h50m.gcode,job,error,"Apr 19, 2025 10:31 AM",21022,0,0,OrcaSlicer 2.2.0,--,--,--,--,--
+Body2_ABS_27m13s.gcode,job,completed,"Apr 19, 2025 9:58 AM",1633,1484,2942.972,OrcaSlicer 2.2.0,--,--,--,--,--
+[a]_fan_grill_x2_ABS_6h17m.gcode,job,completed,"Apr 17, 2025 8:18 PM",22613,20769,41114.882,OrcaSlicer 2.2.0,--,--,--,--,--
+[a]_fan_grill_x2_ABS_5h7m.gcode,job,completed,"Apr 17, 2025 8:06 PM",18398,200,40076.196,OrcaSlicer 2.2.0,--,--,--,--,--
+[a]_fan_grill_x2_ABS_5h20m.gcode,job,cancelled,"Apr 17, 2025 7:17 PM",19183,437,501.999,OrcaSlicer 2.2.0,--,--,--,--,--
+[a]_fan_grill_x2_ABS_5h6m.gcode,job,completed,"Apr 17, 2025 5:26 PM",18388,830,39429.503,OrcaSlicer 2.2.0,--,--,--,--,--
+[a]_foot_mount_b_x2_ABS_8h18m.gcode,job,completed,"Apr 16, 2025 7:10 PM",29885,26677,56552.066,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_4h48m.gcode,job,completed,"Apr 15, 2025 7:19 PM",17301,16705,34982.393,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_2h54m.gcode,job,error,"Apr 15, 2025 6:22 PM",10431,0,0,OrcaSlicer 2.2.0,--,--,--,--,--
+keystone_skirt_ABS_3h40m.gcode,job,completed,"Apr 14, 2025 8:19 PM",13196,12714,34512.862,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_3h14m.gcode,job,completed,"Apr 14, 2025 4:52 PM",11610,10423,25491.603,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_2h58m.gcode,job,completed,"Apr 13, 2025 5:35 PM",10678,10400,27847.22,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_6m20s.gcode,job,completed,"Apr 13, 2025 3:04 PM",380,382,567.988,OrcaSlicer 2.2.0,--,--,--,--,--
+Body3_ABS_1h50m.gcode,job,completed,"Apr 13, 2025 10:34 AM",6586,6464,15867.126,OrcaSlicer 2.2.0,--,--,--,--,--
+Body3_ABS_2h13m.gcode,job,completed,"Apr 13, 2025 8:22 AM",7972,7557,17543.791,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_3h10m.gcode,job,completed,"Apr 12, 2025 6:59 PM",11406,10891,27136.586,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_27m10s.gcode,job,completed,"Apr 12, 2025 2:37 PM",1630,1623,3761.763,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_27m10s.gcode,job,error,"Apr 12, 2025 2:29 PM",1630,0,0,OrcaSlicer 2.2.0,--,--,--,--,--
+keystone_skirt_ABS_2h4m.gcode,job,completed,"Apr 12, 2025 12:01 PM",7467,7064,17321.302,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_1h18m.gcode,job,completed,"Apr 12, 2025 10:37 AM",4676,4610,9589.073,OrcaSlicer 2.2.0,--,--,--,--,--
+keystone_skirt_ABS_2h25m.gcode,job,completed,"Apr 12, 2025 8:33 AM",8704,7117,19736.277,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_5h52m.gcode,job,completed,"Apr 11, 2025 5:28 PM",21099,20105,52341.07,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_3h8m.gcode,job,completed,"Apr 11, 2025 2:13 PM",11274,10823,27270.315,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_3h45m.gcode,job,completed,"Apr 11, 2025 11:23 AM",13477,6610,30484.297,OrcaSlicer 2.2.0,--,--,--,--,--
+keystone_skirt_ABS_1h47m.gcode,job,completed,"Apr 11, 2025 9:04 AM",6440,6065,14567.618,OrcaSlicer 2.2.0,--,--,--,--,--
+keystone_skirt_ABS_1h45m.gcode,job,error,"Apr 10, 2025 8:20 PM",6319,0,0,OrcaSlicer 2.2.0,--,--,--,--,--
+Flush_Clip_Small_ABS_23m55s.gcode,job,completed,"Apr 10, 2025 7:51 PM",1435,1523,831.536,OrcaSlicer 2.2.0,--,--,--,--,--
+Flush_Clip_Small_ABS_23m55s.gcode,job,completed,"Apr 10, 2025 7:20 PM",1435,1523,831.536,OrcaSlicer 2.2.0,--,--,--,--,--
+4er_ABS_2h22m.gcode,job,completed,"Apr 6, 2025 10:13 AM",8512,8323,16360.814,OrcaSlicer 2.2.0,--,--,--,--,--
+4er_ABS_2h22m.gcode,job,klippy_shutdown,"Apr 6, 2025 9:44 AM",8512,0,0,OrcaSlicer 2.2.0,--,--,--,--,--
+4er_ABS_2h22m.gcode,job,error,"Apr 6, 2025 9:41 AM",8512,0,0,OrcaSlicer 2.2.0,--,--,--,--,--
+Flush_Clip_Small_ABS_40m51s.gcode,job,completed,"Apr 6, 2025 8:48 AM",2451,2535,2110.804,OrcaSlicer 2.2.0,--,--,--,--,--
+misumi-hfsb5-2020-slot-cover_ABS_29m33s.gcode,job,completed,"Apr 6, 2025 8:27 AM",1773,1044,1905.196,OrcaSlicer 2.2.0,--,--,--,--,--
+misumi-hfsb5-2020-slot-cover_ABS_58m19s.gcode,job,completed,"Apr 1, 2025 7:38 PM",3499,3735,2647.822,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_8h55m.gcode,job,completed,"Mar 31, 2025 6:08 PM",32127,31281,82761.148,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_2h40m.gcode,job,completed,"Mar 30, 2025 6:33 PM",9586,9328,24907.246,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_8h57m.gcode,job,completed,"Mar 30, 2025 9:21 AM",32247,31402,83014.121,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_8h57m.gcode,job,completed,"Mar 30, 2025 7:32 AM",32247,5920,83003.121,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_8h57m.gcode,job,completed,"Mar 28, 2025 5:15 PM",32247,31402,83014.121,OrcaSlicer 2.2.0,--,--,--,--,--
+Pauls LED Clips 1515 Angled_ABS_53m40s.gcode,job,completed,"Mar 28, 2025 1:30 PM",3220,3362,3887.266,OrcaSlicer 2.2.0,--,--,--,--,--
+Pauls LED Clips 1515 Angled_ABS_6h35m.gcode,job,cancelled,"Mar 28, 2025 10:24 AM",23712,10468,6445.697,OrcaSlicer 2.2.0,--,--,--,--,--
+Pauls LED Clips 1515 Angled_ABS_5h50m.gcode,job,completed,"Mar 26, 2025 5:33 PM",21025,23208,17040.104,OrcaSlicer 2.2.0,--,--,--,--,--
+cable_cover (1)_ABS_2h22m.gcode,job,completed,"Mar 25, 2025 4:56 PM",8539,8720,14681.276,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_58m4s.gcode,job,completed,"Mar 24, 2025 5:40 PM",3484,2832,5692.841,OrcaSlicer 2.2.0,--,--,--,--,--
+Body3_ABS_2h50m.gcode,job,completed,"Mar 24, 2025 5:35 AM",10215,10389,17924.547,OrcaSlicer 2.2.0,--,--,--,--,--
+cable_door_for_pcb_ABS_3h41m.gcode,job,completed,"Mar 23, 2025 5:41 PM",13265,12955,22162.933,OrcaSlicer 2.2.0,--,--,--,--,--
+cable_door_for_pcb_ABS_3h41m.gcode,job,error,"Mar 23, 2025 5:33 PM",13265,0,0,OrcaSlicer 2.2.0,--,--,--,--,--
+1515 WAGO 5-3 Mount_ABS_2h28m.gcode,job,completed,"Mar 23, 2025 2:59 PM",8880,8656,18486.275,OrcaSlicer 2.2.0,--,--,--,--,--
+1515 WAGO 5-3 Mount_ABS_2h28m.gcode,job,completed,"Mar 23, 2025 2:05 PM",8880,2873,18483.275,OrcaSlicer 2.2.0,--,--,--,--,--
+[a]_bowden_tube_entry_inside_cover_MMU_x1_ABS_1h4m.gcode,job,completed,"Mar 23, 2025 12:40 PM",3811,3682,7141.162,OrcaSlicer 2.2.0,--,--,--,--,--
+bowden_tube_entry_rear_cover_ECAS_MMU_x1_ABS_6h51m.gcode,job,completed,"Mar 23, 2025 12:41 AM",24643,23838,42282.41,OrcaSlicer 2.2.0,--,--,--,--,--
+main_body_A_x2_ABS_15h42m.gcode,job,completed,"Mar 22, 2025 8:36 AM",56502,54900,99898.854,OrcaSlicer 2.2.0,--,--,--,--,--
+[a]_pg7_umbilical_z_chain_2_hole_x1_ABS_1h56m.gcode,job,completed,"Mar 22, 2025 6:21 AM",6986,6848,12120.991,OrcaSlicer 2.2.0,--,--,--,--,--
+[a]_fan_grill_x2_ABS_11h10m.gcode,job,completed,"Mar 21, 2025 5:57 PM",40199,39287,57542.578,OrcaSlicer 2.2.0,--,--,--,--,--
+[a]_headless_skirt_accent_x1_ABS_12h1m.gcode,job,completed,"Mar 21, 2025 6:14 AM",43257,41656,78819.244,OrcaSlicer 2.2.0,--,--,--,--,--
+headless_front_skirt_x1_ABS_9h23m.gcode,job,completed,"Mar 20, 2025 8:06 PM",33796,32495,66865.301,OrcaSlicer 2.2.0,--,--,--,--,--
+b_drive_lower_pinned_x1_ABS_1h29m.gcode,job,completed,"Mar 20, 2025 6:36 PM",5351,4976,7773.312,OrcaSlicer 2.2.0,--,--,--,--,--
+b_drive_lower_pinned_x1_ABS_1h29m.gcode,job,completed,"Mar 20, 2025 5:00 PM",5351,4977,7773.312,OrcaSlicer 2.2.0,--,--,--,--,--
+b_drive_upper_pinned_x1_ABS_17h35m.gcode,job,completed,"Mar 19, 2025 8:19 PM",63289,57471,99303.161,OrcaSlicer 2.2.0,--,--,--,--,--
+ringing_tower (1)_ABS_35m30s.gcode,job,completed,"Mar 19, 2025 7:03 PM",2130,2049,4681.296,OrcaSlicer 2.2.0,--,--,--,--,--
+ringing_tower (1)_ABS_3h13m.gcode,job,cancelled,"Mar 19, 2025 6:47 PM",11554,466,1025.772,OrcaSlicer 2.2.0,--,--,--,--,--
+Cube_ABS_9m27s.gcode,job,completed,"Mar 19, 2025 6:15 PM",567,589,564.232,OrcaSlicer 2.2.0,--,--,--,--,--
+Cube_ABS_9m27s.gcode,job,completed,"Mar 19, 2025 5:40 PM",567,589,564.232,OrcaSlicer 2.2.0,--,--,--,--,--
+wago_mount_412_x1_ABS_15h34m.gcode,job,completed,"Mar 18, 2025 5:04 PM",56057,52251,92432.487,OrcaSlicer 2.2.0,--,--,--,--,--
+Extra hand - 150mm_ABS_3h46m.gcode,job,completed,"Mar 17, 2025 8:31 PM",13577,13282,26680.509,OrcaSlicer 2.2.0,--,--,--,--,--
+rear_center_skirt_300_ABS_17h15m.gcode,job,completed,"Mar 17, 2025 4:59 AM",62111,55145,111699.737,OrcaSlicer 2.2.0,--,--,--,--,--
+stealthburner_printhead_dragon_rear_cw2_ABS_10h15m.gcode,job,completed,"Mar 16, 2025 4:48 PM",36907,33119,62616.081,OrcaSlicer 2.2.0,--,--,--,--,--
+Octopus_bracket_set_ABS_9h51m.gcode,job,completed,"Mar 16, 2025 7:36 AM",35471,32259,58651.077,OrcaSlicer 2.2.0,--,--,--,--,--
+z_drive_main_b_x2_ABS_20h14m.gcode,job,completed,"Mar 15, 2025 9:09 AM",72853,66679,110982.582,OrcaSlicer 2.2.0,--,--,--,--,--
+z_drive_main_b_x2_ABS_20h14m.gcode,job,klippy_shutdown,"Mar 15, 2025 8:50 AM",72853,346,400.69,OrcaSlicer 2.2.0,--,--,--,--,--
+z_drive_main_b_x2_ABS_20h14m.gcode,job,klippy_shutdown,"Mar 12, 2025 5:11 PM",72853,2,4.529,OrcaSlicer 2.2.0,--,--,--,--,--
+a_drive_frame_upper_pinned_ABS_14h46m.gcode,job,completed,"Mar 11, 2025 5:16 PM",53159,49623,83237.793,OrcaSlicer 2.2.0,--,--,--,--,--
+keystone_skirt_ABS_6h25m.gcode,job,completed,"Mar 8, 2025 5:04 PM",23084,20621,44449.914,OrcaSlicer 2.2.0,--,--,--,--,--
+300_front_rear_skirt_b_x2mod_ABS_5h45m.gcode,job,completed,"Mar 8, 2025 11:28 AM",20673,18269,38657.835,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_3h23m.gcode,job,completed,"Mar 8, 2025 7:44 AM",12158,10827,23456.534,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_24m16s.gcode,job,completed,"Mar 7, 2025 10:46 PM",1456,1323,2703.415,OrcaSlicer 2.2.0,--,--,--,--,--
+Voron_2_ABS_1h21m.gcode,job,completed,"Mar 7, 2025 9:32 PM",4842,4257,9468.838,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_22m48s.gcode,job,completed,"Mar 7, 2025 9:06 PM",1368,1261,2624.634,OrcaSlicer 2.2.0,--,--,--,--,--
+Body7_ABS_1h22m.gcode,job,completed,"Mar 7, 2025 7:48 PM",4917,4389,9706.061,OrcaSlicer 2.2.0,--,--,--,--,--
+ringing_tower_ABS_55m40s.gcode,job,cancelled,"Mar 7, 2025 5:48 PM",3340,2650,7600.819,OrcaSlicer 2.2.0,--,--,--,--,--
+side_skirt_a_300_x2_ABS_2h38m.gcode,job,completed,"Mar 7, 2025 2:49 PM",9461,8319,18658.418,OrcaSlicer 2.2.0,--,--,--,--,--
+trigger_depressor_x4_ABS_56m39s.gcode,job,completed,"Mar 7, 2025 7:08 AM",3399,3089,5287.556,OrcaSlicer 2.2.0,--,--,--,--,--
+trigger_x4_ABS_48m26s.gcode,job,completed,"Mar 6, 2025 7:49 PM",2906,2658,4813.14,OrcaSlicer 2.2.0,--,--,--,--,--
+Body4_ABS_1h28m.gcode,job,completed,"Mar 5, 2025 8:04 PM",5287,4707,12783.312,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_22m54s.gcode,job,completed,"Mar 4, 2025 8:14 PM",1374,1362,3302.122,OrcaSlicer 2.2.0,--,--,--,--,--
+wago_221_5x_3_ABS_1h35m.gcode,job,completed,"Mar 4, 2025 6:20 PM",5695,5555,8914.514,OrcaSlicer 2.2.0,--,--,--,--,--
+tray_inlay_ABS_ONLY TRay.gcode,job,completed,"Mar 3, 2025 5:25 PM",24480,23195,44953.959,OrcaSlicer 2.2.0,--,--,--,--,--
+tray_inlay_ABS_7h10m.gcode,job,completed,"Mar 2, 2025 3:56 PM",25793,24395,47153.474,OrcaSlicer 2.2.0,--,--,--,--,--
+skirt_front_hex_L_ABS_3h51m.gcode,job,completed,"Mar 2, 2025 12:24 PM",13853,12539,32679.623,OrcaSlicer 2.2.0,--,--,--,--,--
+rear_skirt_center_hub_ABS_2h6m.gcode,job,completed,"Mar 2, 2025 10:23 AM",7588,6870,16519.06,OrcaSlicer 2.2.0,--,--,--,--,--
+mono_skirt_side_x2_ABS_2h26m.gcode,job,completed,"Mar 2, 2025 8:03 AM",8762,7875,20436.104,OrcaSlicer 2.2.0,--,--,--,--,--
+mono_skirt_side_x2_ABS_2h26m.gcode,job,completed,"Mar 2, 2025 5:47 AM",8762,7875,20436.104,OrcaSlicer 2.2.0,--,--,--,--,--
+left_rear_skirt_ABS_5h26m.gcode,job,completed,"Mar 1, 2025 10:04 PM",19530,17702,35113.018,OrcaSlicer 2.2.0,--,--,--,--,--
+left_rear_skirt_ABS_5h26m.gcode,job,klippy_shutdown,"Mar 1, 2025 9:51 PM",19530,0,0,OrcaSlicer 2.2.0,--,--,--,--,--
+left_rear_skirt_ABS_5h26m.gcode,job,cancelled,"Mar 1, 2025 9:41 PM",19530,18,34.069,OrcaSlicer 2.2.0,--,--,--,--,--
+left_rear_skirt_ABS_5h25m.gcode,job,cancelled,"Mar 1, 2025 9:10 PM",19527,35,61.573,OrcaSlicer 2.2.0,--,--,--,--,--
+[a]_logo_inlay_ABS_15h15m.gcode,job,completed,"Mar 1, 2025 5:36 AM",54919,49523,90181.856,OrcaSlicer 2.2.0,--,--,--,--,--
+Octopus_bracket_set_ABS_5h23m.gcode,job,completed,"Feb 28, 2025 8:12 PM",19408,18565,26597.982,OrcaSlicer 2.2.0,--,--,--,--,--
+x_frame_V2TR_MGN12_right_ABS_2h4m.gcode,job,completed,"Feb 28, 2025 6:16 PM",7430,6685,11194.108,OrcaSlicer 2.2.0,--,--,--,--,--
+tray_inlay_ABS_13h34m.gcode,job,completed,"Feb 23, 2025 12:37 PM",48847,46260,89780.133,OrcaSlicer 2.2.0,--,--,--,--,--
+solid_corner_cover_x4_ABS_3h6m.gcode,job,completed,"Feb 23, 2025 9:00 AM",11137,10738,22990.786,OrcaSlicer 2.2.0,--,--,--,--,--
+solid_corner_cover_x4_ABS_3h6m.gcode,job,cancelled,"Feb 23, 2025 7:50 AM",11137,3587,7329.145,OrcaSlicer 2.2.0,--,--,--,--,--
+mmb_mount_ABS_5h1m.gcode,job,completed,"Feb 22, 2025 9:43 PM",18034,17039,33138.931,OrcaSlicer 2.2.0,--,--,--,--,--
+mmb_mount_ABS_5h1m.gcode,job,interrupted,"Feb 22, 2025 12:54 PM",18034,0,0,OrcaSlicer 2.2.0,--,--,--,--,--
+front_body_g2e_ABS_4h7m.gcode,job,completed,"Feb 22, 2025 9:00 AM",14798,13474,22257.662,OrcaSlicer 2.2.0,--,--,--,--,--
+mosfetti_mount_ABS_12h27m.gcode,job,completed,"Feb 21, 2025 7:14 PM",44845,42298,80004.173,OrcaSlicer 2.2.0,--,--,--,--,--
+mmb_mount_ABS_13h9m.gcode,job,cancelled,"Feb 21, 2025 7:10 PM",47343,43,87.03,OrcaSlicer 2.2.0,--,--,--,--,--
+mmb_mount_ABS_13h9m.gcode,job,cancelled,"Feb 21, 2025 7:09 PM",47343,0,0,OrcaSlicer 2.2.0,--,--,--,--,--
+mmb_mount_ABS_13h9m.gcode,job,cancelled,"Feb 21, 2025 7:02 PM",47343,38,81.588,OrcaSlicer 2.2.0,--,--,--,--,--
+[a]_stealthburner_main_body_uhf_ABS_7h51m.gcode,job,completed,"Feb 21, 2025 11:31 AM",28279,26400,41150.249,OrcaSlicer 2.2.0,--,--,--,--,--
+corner_printed_x4_ABS_18h1m.gcode,job,completed,"Feb 20, 2025 6:03 PM",64887,60204,100404.558,OrcaSlicer 2.2.0,--,--,--,--,--
+led_corner_cover_x4_ABS_15h3m.gcode,job,completed,"Feb 19, 2025 5:20 PM",54193,44002,94502.487,OrcaSlicer 2.2.0,--,--,--,--,--
+led_corner_cover_x4_ABS_18h26m.gcode,job,error,"Feb 19, 2025 5:16 PM",66344,13,21.549,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_4h41m.gcode,job,completed,"Feb 18, 2025 6:33 PM",16841,15317,34007.957,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_4h41m.gcode,job,error,"Feb 18, 2025 6:14 PM",16841,0,0,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_4h41m.gcode,job,error,"Feb 18, 2025 6:06 PM",16841,0,0,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_4h41m.gcode,job,error,"Feb 18, 2025 5:59 PM",16841,0,0,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_4h42m.gcode,job,error,"Feb 18, 2025 5:50 PM",16923,0,0,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_4h42m.gcode,job,error,"Feb 18, 2025 5:44 PM",16923,0,0,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_4h42m.gcode,job,error,"Feb 18, 2025 5:37 PM",16923,0,0,OrcaSlicer 2.2.0,--,--,--,--,--
+ATC Spindle Mount New.gcode,job,completed,"Feb 17, 2025 8:01 PM",29264,25106,54609.301,OrcaSlicer 2.2.0,--,--,--,--,--
+bucket-for-10mm-bed_ABS_1h26m.gcode,job,completed,"Feb 17, 2025 6:40 PM",5154,4658,10148.645,OrcaSlicer 2.2.0,--,--,--,--,--
+bucket-for-10mm-bed_ABS_1h26m.gcode,job,cancelled,"Feb 17, 2025 5:26 PM",5154,3580,7765.617,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_12h44m.gcode,job,completed,"Feb 16, 2025 12:00 PM",45848,41511,96064.82,OrcaSlicer 2.2.0,--,--,--,--,--
+Body1_ABS_13h46m.gcode,job,error,"Feb 16, 2025 11:47 AM",49564,0,0,OrcaSlicer 2.2.0,--,--,--,--,--
+ATC Hose Adapter.gcode,job,completed,"Feb 16, 2025 9:20 AM",9215,8343,19931.327,OrcaSlicer 2.2.0,--,--,--,--,--
+Hose Adapter x2.gcode,job,cancelled,"Feb 16, 2025 7:43 AM",17885,5044,10289.182,OrcaSlicer 2.2.0,--,--,--,--,--
+Dust Chute_ABS_14h34m.gcode,job,cancelled,"Feb 15, 2025 11:17 PM",52463,27913,55399.821,OrcaSlicer 2.2.0,--,--,--,--,--
+keystone_skirt (1)_ABS_1h3m.gcode,job,completed,"Feb 15, 2025 8:57 PM",3769,3471,7708.115,OrcaSlicer 2.2.0,--,--,--,--,--
+Calibration_OctogonV2_ABS_26m36s.gcode,job,completed,"Feb 15, 2025 6:34 PM",1596,1543,3712.022,OrcaSlicer 2.2.0,--,--,--,--,--
+Calibration_OctogonV2_ABS_26m36s.gcode,job,cancelled,"Feb 15, 2025 6:28 PM",1596,18,33.5,OrcaSlicer 2.2.0,--,--,--,--,--
+Calibration_OctogonV2_ABS_32m44s.gcode,job,completed,"Feb 15, 2025 5:41 PM",1964,1977,3691.686,OrcaSlicer 2.2.0,--,--,--,--,--
+Calibration_OctogonV2_ABS_32m44s.gcode,job,cancelled,"Feb 15, 2025 5:23 PM",1964,433,755.863,OrcaSlicer 2.2.0,--,--,--,--,--
+body_ABS_1h31m.gcode,job,completed,"Feb 15, 2025 3:35 PM",5448,5341,8360.919,OrcaSlicer 2.2.0,--,--,--,--,--
+body_ABS_1h31m.gcode,job,klippy_disconnect,"Feb 15, 2025 2:33 PM",5448,3058,6228.245,OrcaSlicer 2.2.0,--,--,--,--,--
+body_ABS_1h31m.gcode,job,error,"Feb 15, 2025 2:24 PM",5448,0,0,OrcaSlicer 2.2.0,--,--,--,--,--
+body_ABS_1h29m.gcode,job,error,"Feb 15, 2025 2:18 PM",5364,0,0,OrcaSlicer 2.2.0,--,--,--,--,--
+body (1)_ABS_1h32m.gcode,job,error,"Feb 15, 2025 2:02 PM",5516,0,0,OrcaSlicer 2.2.0,--,--,--,--,--
+body (1)_ABS_1h32m.gcode,job,error,"Feb 15, 2025 1:36 PM",5516,0,0,OrcaSlicer 2.2.0,--,--,--,--,--
+body (1)_ABS_1h32m.gcode,job,error,"Feb 15, 2025 1:23 PM",5516,0,0,OrcaSlicer 2.2.0,--,--,--,--,--
+body (1)_ABS_1h32m.gcode,job,klippy_disconnect,"Feb 15, 2025 1:11 PM",5516,0,0,OrcaSlicer 2.2.0,--,--,--,--,--
+body (1)_ABS_1h32m.gcode,job,klippy_disconnect,"Feb 15, 2025 1:01 PM",5516,11,15.102,OrcaSlicer 2.2.0,--,--,--,--,--
+body (1)_ABS_1h32m.gcode,job,error,"Feb 15, 2025 12:31 PM",5516,0,0,OrcaSlicer 2.2.0,--,--,--,--,--
+body (1)_ABS_1h32m.gcode,job,klippy_disconnect,"Feb 15, 2025 12:14 PM",5516,16,23.89,OrcaSlicer 2.2.0,--,--,--,--,--
